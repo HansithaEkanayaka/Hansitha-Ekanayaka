@@ -12,7 +12,7 @@
   </a>
 
 <a href="https://www.westminster.ac.uk/" target="_blank" style="text-decoration: none;">
-  <svg xmlns="http://www.w3.org/2000/svg" width="280" height="28" viewBox="0 0 280 28">
+  <svg xmlns="Assets\UNI.png" width="280" height="28" viewBox="0 0 280 28">
     <text x="0" y="20" fill="#FFD700" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="1.5">UNIVERSITY OF</text>
     <!-- Shifted x from 115 to 132 to fix the overlap -->
     <text x="132" y="20" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="1.5">WESTMINSTER</text>
