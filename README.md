@@ -11,7 +11,6 @@
     <img src="https://komarev.com/ghpvc/?username=HansithaEkanayaka&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000&label=Visitors&linear-gradient=45deg,black+50%,yellow+50%" alt="Visitors"/>
   </a>
 
-  <!-- University Link Badge (Replace with an SVG or PNG of your choice) -->
 <a href="https://www.westminster.ac.uk/" target="_blank" style="text-decoration: none;">
   <svg xmlns="http://www.w3.org/2000/svg" width="280" height="28" viewBox="0 0 280 28">
     <text x="0" y="20" fill="#FFD700" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="1.5">UNIVERSITY OF</text>
@@ -19,7 +18,6 @@
     <text x="132" y="20" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="1.5">WESTMINSTER</text>
   </svg>
 </a>
-
 </div>
 
 <h2 align="center">🛠️ My Tech Stack</h2>
