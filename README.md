@@ -70,9 +70,9 @@
 <h2 align="center"><img src="Assets\link.png" alt="Link Icon" width="30" height="30"/>&nbspLet's Connect</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/hansitha-ekanayaka" target="_blank"><img src="Assets/linkedin.png" alt="LinkedIn" height="30" width="40" style="vertical-align: middle; margin: 0 20px;" /></a>
+  <a href="https://www.linkedin.com/in/hansitha-ekanayaka-476016309/" target="_blank"><img src="Assets/linkedin.png" alt="LinkedIn" height="30" width="40" style="vertical-align: middle; margin: 0 20px;" /></a>
   <a href="mailto:hansithaekanayaka1@gmail.com" target="_blank"><img src="Assets/mail.png" alt="Gmail" height="30" width="40" style="vertical-align: middle; margin: 0 20px;" /></a>
   <a href="https://instagram.com/_reshan_hansitha_" target="_blank"><img src="Assets/instagram.png" alt="Instagram" height="30" width="40" style="vertical-align: middle; margin: 0 20px;" /></a>
   <a href="https://discord.gg/hansitha_ekanayaka" target="_blank"><img src="Assets/discord.png" alt="Discord" height="30" width="40" style="vertical-align: middle; margin: 0 20px;" /></a>
-  <a href="https://facebook.com/hansitha.ekanayaka.profile" target="_blank"><img src="Assets/facebook.png" alt="Facebook" height="30" width="40" style="vertical-align: middle; margin: 0 20px;" /></a>
+  <a href="https://www.facebook.com/share/1BdV6LkLxh/" target="_blank"><img src="Assets/facebook.png" alt="Facebook" height="30" width="40" style="vertical-align: middle; margin: 0 20px;" /></a>
 </p>
