@@ -1,21 +1,94 @@
-<h1 align="center">Hi 👋, I'm Hansitha Ekanayaka</h1>
-<h3 align="center">Welcome to my corner of GitHub! I'm a Software Engineering Intern with a passion for building scalable and intuitive applications. I love solving complex problems and turning ideas into working software.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hansithaekanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="hansithaekanayaka" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hansithaekanayaka" alt="hansithaekanayaka" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [hansithaekanayaka.com](hansithaekanayaka.com)
-
-- 📫 How to reach me **hansithaekanayaka1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hansitha ekanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hansitha ekanayaka" height="30" width="40" /></a>
-<a href="https://fb.com/hansitha ekanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hansitha ekanayaka" height="30" width="40" /></a>
-<a href="https://instagram.com/_reshan_hansitha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_reshan_hansitha_" height="30" width="40" /></a>
-<a href="https://discord.gg/hansitha_ekanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hansitha_ekanayaka" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.hansithaekanayaka.com/" target="_blank">
+    <img src="Assets\github_intro.gif" alt="👋 Hi there! I'm Hansitha Ekanayaka" title="👋 Hi there! I'm Hansitha Ekanayaka" width="100%" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
+  
+
+  <a href="https://github.com/HansithaEkanayaka" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=HansithaEkanayaka&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000&label=Visitors&linear-gradient=45deg,black+50%,yellow+50%" alt="Visitors"/>
+  </a>
+
+  <!-- University Link Badge (Replace with an SVG or PNG of your choice) -->
+<a href="https://www.westminster.ac.uk/" target="_blank" style="text-decoration: none;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="280" height="28" viewBox="0 0 280 28">
+    <text x="0" y="20" fill="#FFD700" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="1.5">UNIVERSITY OF</text>
+    <!-- Shifted x from 115 to 132 to fix the overlap -->
+    <text x="132" y="20" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="1.5">WESTMINSTER</text>
+  </svg>
+</a>
+
+</div>
+
+<h2 align="center">🛠️ My Tech Stack</h2>
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"align="right" width="300" height="auto">
+
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+
+**Frameworks & Libraries**  
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwindcss)
+![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
+
+**Platforms & Databases**  
+![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+
+**IDEs & Editors**  
+![VS Code](https://img.shields.io/badge/-VS_Code-000000?style=flat&logo=visual-studio-code)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellijidea)
+
+**Tools & Design**  
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+![draw.io](https://img.shields.io/badge/-draw.io-000000?style=flat&logo=diagramsdotnet)
+![CircuitVerse](https://img.shields.io/badge/-CircuitVerse-000000?style=flat&logo=circuitverse)
+
+<div align="center">
+  <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">    &nbspCollaboration</h2>
+  <p>I'm open to collaborating on open-source development projects and contributing to impactful software solutions.
+</div>
+<br><br>
+<p align="center">
+  <a href="https://github.com/hansithaekanayaka" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=hansithaekanayaka&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=30" alt="Hansitha's GitHub Stats" />
+  </a>
+</p>
+
+<br><br>
+
+<h2 align="center"><img src="Assets\link.png" alt="Link Icon" width="30" height="30"/>&nbspLet's Connect</h2>
+
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/hansitha-ekanayaka" target="_blank"><img src="Assets/linkedin.png" alt="LinkedIn" height="30" width="40" /></a>
+
+  <!-- Gmail -->
+  <a href="mailto:hansithaekanayaka1@gmail.com" target="_blank"><img src="Assets/mail.png" alt="Gmail" height="30" width="40" /></a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/_reshan_hansitha_" target="_blank"><img src="Assets/instagram.png" alt="Instagram" height="30" width="40" /></a>
+
+  <!-- Discord -->
+  <a href="https://discord.gg/hansitha_ekanayaka" target="_blank"><img src="Assets/discord.png" alt="Discord" height="30" width="40" /></a>
+
+  <!-- Facebook -->
+  <a href="https://facebook.com/hansitha.ekanayaka.profile" target="_blank"><img src="Assets/facebook.png" alt="Facebook" height="30" width="40" /></a>
+</div>
