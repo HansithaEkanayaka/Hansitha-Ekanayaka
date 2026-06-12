@@ -11,13 +11,9 @@
     <img src="https://komarev.com/ghpvc/?username=HansithaEkanayaka&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000&label=Visitors&linear-gradient=45deg,black+50%,yellow+50%" alt="Visitors"/>
   </a>
 
-<a href="https://www.westminster.ac.uk/" target="_blank" style="text-decoration: none;">
-  <svg xmlns="Assets\UNI.png" width="280" height="28" viewBox="0 0 280 28">
-    <text x="0" y="20" fill="#FFD700" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="1.5">UNIVERSITY OF</text>
-    <!-- Shifted x from 115 to 132 to fix the overlap -->
-    <text x="132" y="20" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="1.5">WESTMINSTER</text>
-  </svg>
-</a>
+<a href="https://www.westminster.ac.uk/" target="_blank">
+    <img src="https://img.shields.io/badge/UNIVERSITY_OF-WESTMINSTER-FFFFFF?style=for-the-badge&labelColor=FFD700&color=000000" alt="University of Westminster" />
+  </a>
 </div>
 
 <h2 align="center">🛠️ My Tech Stack</h2>
