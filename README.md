@@ -19,40 +19,37 @@
 <h2 align="center">🛠️ My Tech Stack</h2>
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"align="right" width="300" height="auto">
 
-**Languages**  
+**Programming Languages**  
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
-![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 
-**Frameworks & Libraries**  
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs)
+**Frontend & Mobile**  
+![React](https://img.shields.io/badge/-React_JS-000000?style=flat&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwindcss)
-![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
 
-**Platforms & Databases**  
-![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
+**Backend & Databases**  
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-web-services&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sqlite)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-000000?style=flat&logo=supabase)
 
-**IDEs & Editors**  
+**Tools & IDEs**  
+![Git](https://img.shields.io/badge/-Git/GitHub-000000?style=flat&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 ![VS Code](https://img.shields.io/badge/-VS_Code-000000?style=flat&logo=visual-studio-code)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellijidea)
-
-**Tools & Design**  
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
-![draw.io](https://img.shields.io/badge/-draw.io-000000?style=flat&logo=diagramsdotnet)
-![CircuitVerse](https://img.shields.io/badge/-CircuitVerse-000000?style=flat&logo=circuitverse)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-000000?style=flat&logo=androidstudio)
+![Apache NetBeans](https://img.shields.io/badge/-Apache_NetBeans-000000?style=flat&logo=apache)
+![Google Colab](https://img.shields.io/badge/-Google_Colab-000000?style=flat&logo=googlecolab)
 
 <div align="center">
   <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">    &nbspCollaboration</h2>
