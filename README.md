@@ -56,15 +56,16 @@
   <p>I'm open to collaborating on open-source development projects and contributing to impactful software solutions.
 </div>
 <br><br>
-<p align="center">
-  <a href="https://github.com/hansithaekanayaka" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=hansithaekanayaka&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=30" alt="Hansitha's GitHub Stats" />
-  </a>
-</p>
+<div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=HansithaEkanayaka&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+</div>
 
-<br><br>
+<br><br><br>
 
-<h2 align="center"><img src="Assets\link.png" alt="Link Icon" width="30" height="30"/>&nbspLet's Connect</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/HansithaEkanayaka/HansithaEkanayaka/main/Assets/link.png" alt="Link Icon" width="30" height="30"/>&nbspLet's Connect</h2>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hansitha-ekanayaka-476016309/" target="_blank"><img src="Assets/linkedin.png" alt="LinkedIn" height="30" width="40" style="vertical-align: middle; margin: 0 20px;" /></a>
